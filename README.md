@@ -41,7 +41,7 @@
 
 ```xml
 <dependency>
-    <groupId>com.liam</groupId>
+    <groupId>io.github.kassa-charity</groupId>
     <artifactId>bitpay-spring-boot-starter</artifactId>
     <version>1.0.0</version>
 </dependency>
